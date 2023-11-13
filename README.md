@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NielsDrift
-- 👀 I’m interested in Statistics, Data Science, and Economics.
-- 🌱 I’m currently learning to use my knowledge of R, Ptyhon, and SQL to solve real life problems by engaging in both personal and university projects.
+Highly interested in the application of ML-solutions in fintech. 
+
+Here you can find some of my peronal and university projects.
 
 
 <!---
